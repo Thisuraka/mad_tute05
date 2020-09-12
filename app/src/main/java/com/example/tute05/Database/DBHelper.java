@@ -79,7 +79,7 @@ public class DBHelper extends SQLiteOpenHelper {
 
         cursor.close();
 
-        if (req == "user"){ nn
+        if (req == "user"){
             return userNames;
         }
         else if(req == "password"){
