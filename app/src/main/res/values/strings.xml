@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tute05</string>
+
+    <string name="txtView1"> User Name </string>
+    <string name="txtView2"> Password </string>
+
+    <string name="editText1"> Name </string>
+    <string name="editText2"> Password </string>
+
+    <string name="btn1"> Select All </string>
+    <string name="btn2"> Add </string>
+    <string name="btn3"> Sign - In </string>
+    <string name="btn4"> Delete </string>
+    <string name="btn5"> Update </string>
+
+
+</resources>
